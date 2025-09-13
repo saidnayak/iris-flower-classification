@@ -1,5 +1,9 @@
 # Iris Flower Classification 🌸
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)
+
 A machine learning project to classify Iris flowers into different species using **scikit-learn** and a **Streamlit** web app.
 
 ## 🚀 Features
